@@ -1,0 +1,46 @@
+body{background-color: gray;}
+
+h1{color: red;
+	background-color: black;
+	text-align: center;
+	font-family: "Comic Sans MS";}
+	
+ul{color: blue;
+	font-size: 25px}
+
+#hobby1{background-color: red;
+		text-align: center;}
+		
+#title1{color: white;
+	font-family: "Verdana";}
+
+summary{font-weight: bold;}
+
+#det1{color: blue;
+	font-family: "Verdana";}
+
+#hobby2{background-color: white;}
+
+#title2{color: blue;
+	font-family: "Georgia";}
+
+#det2a{color: red;
+	font-family: "Georgia";}
+
+#det2b{color: red;
+	font-family: "Georgia";}
+
+#hobby3{background-color: blue;
+		text-align: right;}
+		
+#title3{color: red;
+	font-family: "Courier New";}
+
+#det3{color: white;
+	font-family: "Courier New";}
+
+	a{font-style: italic;}
+
+footer{text-align: right;
+	color: white;
+	font-family: "Lucida Console";}	

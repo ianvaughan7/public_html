@@ -1,0 +1,28 @@
+h1{text-align: center;}
+h2{text-align: center;
+	color: white;
+	font-family: "verdana";
+	font-size: 36px;}
+body{background-color: Orange;}
+#div1{background-color: gray;}
+div{border-style: solid;
+	border-color: black;}
+.trendhead{font-family: Arial;
+			text-align: center;}
+.div1head{font-family: Tahoma;}
+#div2{background-color: gray;}
+#class{font-style: italic;}
+blockquote{background-color: lightgray;
+			font-style: italic;
+			font-family: arial;}
+footer{text-align: right;}
+a{color: darkred;}
+ul{font-family: "lucida sans unicode";
+	font-size: 16px;}
+summary{font-family: "lucida sans unicode";}
+p{font-family: "trebuchet ms";}
+h4{font-family: "arial black";}
+article{border-style: dotted;
+		border-color: white;}
+#techlink{font-family: "lucida sans unicode";
+			font-style: italic;}
